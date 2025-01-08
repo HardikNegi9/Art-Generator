@@ -1,0 +1,11 @@
+huggingface_hub
+python-dotenv
+Pillow
+ipython
+moviepy
+pydub
+
+streamlit
+# google-generativeai
+# langchain_community
+# langchain-google-genai
